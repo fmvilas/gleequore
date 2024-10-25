@@ -1,6 +1,6 @@
 {
   "name": "@fmvilas/gleequore",
-  "version": "0.37.8",
+  "version": "0.1.0",
   "description": "The Quore of Glee",
   "exports": "./dist/moduleIndex.js",
   "type": "module",
